@@ -1,3 +1,6 @@
+# IMPORTANT NOTICE
+This repository was moved to [hmr/gpprofiles](https://github.com/hmr/gpprofiles).
+
 # unix_profiles_hmr
 My version of unix profiles.
 
